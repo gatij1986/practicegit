@@ -1,1 +1,1 @@
-###prictising git command
+####pgitrictising git command
